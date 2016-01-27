@@ -10,7 +10,7 @@
     "url": "https://github.com/yuanyan/boron.git"
   },
   "dependencies": {
-    "domkit": "^0.0.1"
+    "domkit": "gravitypersists/domkit"
   },
   "peerDependencies": {
     "react": ">=0.14.0"
